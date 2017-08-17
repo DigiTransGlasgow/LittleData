@@ -1,6 +1,6 @@
 # PLAYING BEOWULF
 
-![Image1: Workshop participant](Images/PlayingBeowulf_Image1.png)
+![Image1](Images/PlayingBeowulf_Image1.jpg)
 
 Beowulf remains a popular text in school and university English courses, with opportunities for work at different levels. It can be a robust fantasy adventure, a complex and sophisticated heroic narrative, an exemplar of alliterative Anglo-Saxon poetry, a treasure trove of Old English language. Its history is equally fascinating: its mysterious journey from oral performance to written manuscript; its precious status as a unique version; its near-destruction in the 1731 fire in the Cotton library; its value as one of the great treasures of the British Library. These physical changes are accompanied by a myriad of textual transformations and adaptations in theatre, film, animation and videogame. 
 
