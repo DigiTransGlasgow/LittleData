@@ -15,6 +15,7 @@ This workshop was organised in collaboration with Game City, an annual celebrati
 
 Led by Anglo-Saxon specialists Richard North, Vicky Symons and Simon Thomson, a group of UCL students explored how making videogames of Beowulf might enhance their study of the poem. One example is a ‘manuscript game’ made by student Calum Cockburn which explores the Beowulf manuscript’s context. It serves as a prologue to two levels made by fellow students, in which the player can choose to play as Beowulf or as Grendel. This transforms museum and library artefacts into a 3D playable environment, leading up to the players’ two choices. It is a good example of the principle of co-curation envisaged by the wider project – a principle in which archival treasures such as the four codices Calum represents in his game are unlocked from their institutional context and made available for manipulation, inquiry and transformation. Calum achieved this through his role as a scholarly game-maker, and by envisaging the potential players. 
 
+![Image2](Images/PlayingBeowulf_Image2.jpg)
 
 **What We Found** 
 
