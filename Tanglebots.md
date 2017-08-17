@@ -1,5 +1,9 @@
 # TANGLEBOTS
 
+![Image1:Workshop participant](Images/Tanglebots_Image1.jpg)
+
+_Image1:Workshop participant_
+
 Tangling threads is straightforward for a human and their hands, but a real challenge for a robot. For the finale to the AHRC *Weaving Codes - Coding Weaves* (http://kairotic.org) project we tried a new approach to creative technology education inspired by this, teaching families about code, robotics and thread through the process of building “Tanglebots” (http://fo.am/tanglebots/). 
 
 The first Tanglebots workshop came near the end of the *Weaving Codes - Coding Weaves* project, conducted by Alex McLean, Ellen Harlizius-Klück, Dave Griffiths and Emma Cocker. The aim of our overall project was to re-link modern digital tools and the ancient and fundamentally *digital* art of weaving. We looked for the theoretical points where weaving and computer programming connect and developed codes and code machines to pursue these questions. Tanglebots engaged a group of families in pursuing these questions with us.
