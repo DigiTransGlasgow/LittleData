@@ -34,4 +34,4 @@ Elton Barker
 
 **Links and Resources:**
 
-Campbell, T. and Barritt, M. ‘The representation of navigational hazards: the development of toponymy and symbology on portolan charts from the 13th century onwards’ in Linking Places, Placing Links: Classification, Representation and the Epistemology of Geohistory, E. Barker and L. Isakson (eds). Indiana University Press, forthcoming. 
+Campbell, T. and Barritt, M. ‘The representation of navigational hazards: the development of toponymy and symbology on portolan charts from the 13th century onwards’ in _Linking Places, Placing Links: Classification, Representation and the Epistemology of Geohistory_, E. Barker and L. Isakson (eds). Indiana University Press, forthcoming. 
