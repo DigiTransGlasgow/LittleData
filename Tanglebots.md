@@ -19,7 +19,7 @@ FoAM always recognises the importance of food in communal events, in providing b
 
 We have thought about different approaches to future Tanglebots workshops, perhaps starting them with a manual tangling exercise (such as weaving with rope) in order to focus on the threads before getting distracted by the technology. Likewise, LEGO has a strange all or nothing effect, once you start using it – everything has to work that way. It would be interesting to try a workshop without, and seeing what different creative options emerge.
 
-![Image3](Images/Tanglebots3.jpg)
+![Image3](Images/Tanglebots_Image3.jpg)
 
 It was important to incorporate the *Weaving Codes* research process, so deliberately setting goals we don’t yet know the answers to. From our perspective this gave us an opportunity to open up our ideas, and look for new directions and research questions to guide our future work. The result of this was a successful proposal to the European Research Council, and so we are now embarking on a new five year project *PENELOPE: A study of weaving as technical mode of existence* (Grant agreement no. 682711). This project will explore the connections between weaving and digital technology or art, especially in ancient times where weaving has been a paradigm of order for poetry, the state and even the cosmos. Included in that project is a method of building digital devices that allows us to understand better how ancient weavers might have thought while entangling the threads on their looms, which were quite different from our present-day handlooms. The project will be conducted at the Research Institute for the History of Technology and Science at Deutsches Museum, Munich.
 
