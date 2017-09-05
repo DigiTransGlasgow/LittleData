@@ -2,8 +2,8 @@
 # CURATING CHILDHOODS – ‘DATA ARE PEOPLE’
 
 
-!
-_Image 1: Children taking part in the archive workshop_	
+![image](Images/CuratingChildhoods_Image1)
+_Children taking part in the archive workshop_	
 
 The aim of the Curating Childhoods project was to re-imagine the relationship between children and archives in a digital age. Working in collaboration with the Mass Observation Archive, the project set out to establish a new ‘Everyday Childhoods’ collection of multimedia material that children and young people could directly contribute to and which would act an important site of discussion between children, archivists and researchers about the ethical ramifications of making data public. 
 
