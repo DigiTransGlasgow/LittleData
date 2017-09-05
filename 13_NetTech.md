@@ -23,6 +23,7 @@ This project was a chance to start a research team with great colleagues and to 
 Overall I am grateful for the opportunity to work on this. It was particularly rewarding bringing cutting edge research in music composition and computing to a social setting and to see the children immediately benefitting from the research.
 
 Ed Hughes
+
 Professor of Composition in Music
 School of Media, Film and Music
 University of Sussex.
