@@ -1,5 +1,10 @@
 # PELAGIOS 4: A 21ST CENTURY KEY TO A 13TH CENTURY CODE
 
+![Image1](Images/Pelagios_Image1.jpg)
+
+_Chart of the Black Sea and Eastern Mediterranean,
+Grazioso Benincasa, 1473.  Image courtesy of the British Library_
+
 Can the digitised versions of different historical sources, such as voyage literature, route maps, seafarers’ charts and medieval pilgrimage texts be used to help researchers understand how pre-modern authors and mapmakers conceptualised their world? And can these sources be used in ways that tell us anything new about the world we live in today? 
 
 These were two of the questions asked by Pelagios 4, an AHRC-funded project dedicated to building connections between different kinds of historical resources online. What the project found was more than a new perspective on the medieval world – it uncovered information hidden in maps dating back over six hundred years. 
@@ -7,12 +12,6 @@ These were two of the questions asked by Pelagios 4, an AHRC-funded project dedi
 Being able to link one document to another—and move easily between them—is one of the enabling features of the World Wide Web. More precisely, Pelagios’s semantic annotation methodology, by which means each place entity in Web documents (texts, maps or databases) is given a unique “uniform resource identifier” (from an authority gazetteer), allows the linking of related information through these shared references. In Pelagios 4, we helped a diverse range of scholars build and use these interconnected sources to help address key questions in the history of cartography. Our overall objective was to build connections between different sources but we were also able to contribute to the scholarship seeking to challenge a homogenized picture of the world – a picture reinforced by standardized global cartographic conventions which have become ubiquitous with the advent of digital Web mapping technologies. 
 
 One of the less commonly known sources our scholarly partners used was the collection of mysterious portolan charts. Lacking indications of authorship or dates, portolan charts are maps based on observed directions and estimated distances as observed by pilots at sea.. They are also of critical importance for scholars due to the high volume of toponyms to be found in them. Land-based places, such as ports, harbours, headlands and other coastal locations, are commonly included, making them a valuable source for cross-referencing both place names and natural features with other texts and maps. Above all, they afford researchers a perspective of the world as seen from the sea, a sailor’s-eye view. (Image 1.) This view was key to answering one of the burning questions that these charts prompt—their symbology. The absence of a legend has meant these charts have been difficult to decode. To get a better understanding of the complex symbology that they use, it was necessary to develop an understanding of how medieval sailors viewed their world, and how they ensured that this knowledge was shared over the years. To address this issue requires bringing together different kinds of information and knowledge traditions. Enter Pelagios.
-
-![Image1](Images/Pelagios_Image1.jpg)
-
-_Image1: Chart of the Black Sea and Eastern Mediterranean,
-Grazioso Benincasa, 1473.  Image courtesy of the British Library_
-
 
 The task of trying to decode these symbols fell to former British Library Map Librarian, Tony Campbell, and the former Hydrographer of the Royal Navy, Captain Mike Barritt. Aided by the digitization of the British Library's collection of portolan charts, and their annotation by Cat Crossley (more on whom in a moment), Tony and Mike focused on making sense of a particular kind of symbol, arranged in different configurations across the charts—dots and crosses in black and red. By using Pelagios’s linked data approach, Tony and Mike looked for shared place-name links between these charts and the other sources used in the Pelagios 4 project. What they found was that these dots and crosses conveyed critical information about the threats to mariners, threats such as rocks, reefs, river mouths, shoals and sandbanks. Decoding these symbols was made possible first by comparing the texts from the classical period, which also included references to offshore dangers; second, by overlaying the annotated portolan charts in a GIS (Geographic Information System) with contemporary satellite imagery, many of the symbols could still be evident to the naked eye (See Image 2).
 
