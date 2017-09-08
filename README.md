@@ -3,7 +3,7 @@
 
 {% for article in site.contributions %}
 
-{{ article.title }}
+<a href="{{ article.path }}">{{ article.title }}</a>
 
 {% endfor %}
 
