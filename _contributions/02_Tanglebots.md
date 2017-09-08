@@ -1,5 +1,6 @@
 ---
 title: TANGLEBOTS
+layout: default
 ---
 
 
