@@ -5,4 +5,6 @@
 
 {{article.title}}
 
+{% endfor %}
+
 ![Image](_contributions/Images/CoverImage2.jpeg)
