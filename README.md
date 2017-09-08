@@ -3,7 +3,7 @@
 
 {% for article in site.contributions %}
 
-{{article.title}}
+{{ article.title }}
 
 {% endfor %}
 
