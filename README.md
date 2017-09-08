@@ -5,4 +5,4 @@
 
 {{article.title}}
 
-![Image](Images/CoverImage2.jpeg)
+![Image](_contributions/Images/CoverImage2.jpeg)
