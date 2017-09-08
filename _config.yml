@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 collections:
-- contributions
+        contributions:
+                output: true
