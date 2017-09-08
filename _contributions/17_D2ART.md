@@ -1,3 +1,7 @@
+---
+title: D2ART: TRANSFORMING DISABILITY ARTS THROUGH DIGITAL TECHNOLOGIES
+---
+
 # D2ART: TRANSFORMING DISABILITY ARTS THROUGH DIGITAL TECHNOLOGIES
 
 ![Image](Images/D2ART_Image1.jpg)
@@ -11,7 +15,7 @@ The D2ART project addressed this lack of work through exploring the current prac
 
 A key initial assumption we had around this work was that physically impaired artists would likely be familiar with many of the innovative tools available, but this was clearly not the case. Analysis of the data collected identified that the majority of artists were not using digital assistive technologies within their practice and that there was a lack of awareness around the availability of affordable novel technologies. It was therefore very rewarding in the evaluation sessions to see the artists’ excitement in having the chance to try out these technologies and in hearing their thoughts around how they could support practice, present new creative opportunities, and address some of the barriers they currently experience.
 
-In terms of social impact, the project widely disseminated the availability and potential of new digital technologies to support creative practice across the disability arts sector. This was possible through the multi-disciplinary team involved on the project which included DASH (Disability Arts Shropshire), Arts Council England, University of Illinois at Chicago (specialising in disability studies), the School of Art at Birmingham City University, Beaumont College (a special needs college run by the charity Scope), and National Star College. These partners were all able to share and disseminate the outcomes of the projects with different audiences at related events and through online platforms (websites, social media, newsletters, etc.). 
+In terms of social impact, the project widely disseminated the availability and potential of new digital technologies to support creative practice across the disability arts sector. This was possible through the multi-disciplinary team involved on the project which included DASH (Disability Arts Shropshire), Arts Council England, University of Illinois at Chicago (specialising in disability studies), the School of Art at Birmingham City University, Beaumont College (a special needs college run by the charity Scope), and National Star College. These partners were all able to share and disseminate the outcomes of the projects with different audiences at related events and through online platforms (websites, social media, newsletters, etc.).
 
 ![Image](Images/D2ART_Image2.jpg)
 
@@ -31,7 +35,3 @@ Birmingham City University
 Creed, C., 2016. ‘Assistive tools for disability arts: collaborative experiences in working with disabled artists and stakeholders’ in the _Journal of Assistive Technologies_, 10(2), pp.121-129.
 
 Creed, C. (2016) _Eye Gaze Interaction for Supporting Creative Work with Disabled Artists_. Poster paper presented at the British HCI Conference, Bournemouth.
-
-
-
-

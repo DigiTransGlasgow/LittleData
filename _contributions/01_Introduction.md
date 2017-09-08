@@ -1,3 +1,7 @@
+---
+title: Introduction
+---
+
 # Introduction
 
-This will be the introduction. 
+This will be the introduction.

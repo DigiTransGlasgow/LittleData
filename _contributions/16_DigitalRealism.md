@@ -1,3 +1,7 @@
+---
+title: DIGITAL REALISM: VISUALISING THE SOCIAL THROUGH DIGITAL ART PRACTICE
+---
+
 # DIGITAL REALISM: VISUALISING THE SOCIAL THROUGH DIGITAL ART PRACTICE
 
 ![Image](Images/DigitalRealism_Image1.jpg)
@@ -22,5 +26,3 @@ https://digital-realism.net
 
 **Research team:**
 University of Westminster: Tom Corby, Gavin Baily; University of Oxford: Stefano de Sabbata.
-
-

@@ -1,3 +1,7 @@
+---
+title: EXPLORING BRITISH DESIGN
+---
+
 # EXPLORING BRITISH DESIGN
 
 
@@ -19,9 +23,9 @@ Discussions with students and researchers that took place as part of the Explori
 
 _One of the early data visualisations showing, from the archival data, entities connected to businessman and designer Alastair Morton (1910-1963)._
 
-Yet from some quarters this shift is gradually happening, although more in theory than practice at the moment. Recently the archive community has been developing  the ‘Records in Contexts Conceptual Model’ that aims to move from inward-looking hierarchical descriptions to ‘a model that makes it possible to describe records and the environments in which they are created, accumulated, used, and managed in a way that more fully captures and expresses the complex contextual realities than can be done using a single hierarchical description.’ For more information, see: www.ica.org/sites/default/files/RiC-CM-0.1.pdf. 
+Yet from some quarters this shift is gradually happening, although more in theory than practice at the moment. Recently the archive community has been developing  the ‘Records in Contexts Conceptual Model’ that aims to move from inward-looking hierarchical descriptions to ‘a model that makes it possible to describe records and the environments in which they are created, accumulated, used, and managed in a way that more fully captures and expresses the complex contextual realities than can be done using a single hierarchical description.’ For more information, see: www.ica.org/sites/default/files/RiC-CM-0.1.pdf.
 
-The Exploring British Design project has run in parallel to this major project, clearly reflecting the increasing understanding of the importance of context and connection. Undoubtedly, university archives have an important role in undertaking theoretically informed research of this kind. In connecting disparate, and relatively small yet invaluable archives and collection they help represent histories that are inevitably more representative. The criticality-informed production of data structures, driven by educational imperatives rather than the commercial priorities of institutional digital strategies, has an important role in leading work of this kind. 
+The Exploring British Design project has run in parallel to this major project, clearly reflecting the increasing understanding of the importance of context and connection. Undoubtedly, university archives have an important role in undertaking theoretically informed research of this kind. In connecting disparate, and relatively small yet invaluable archives and collection they help represent histories that are inevitably more representative. The criticality-informed production of data structures, driven by educational imperatives rather than the commercial priorities of institutional digital strategies, has an important role in leading work of this kind.
 
 
 Catherine Moriarty
@@ -39,7 +43,7 @@ http://www.mitpressjournals.org/doi/abs/10.1162/DESI_a_00416#.WKWD4mNhlTc
 Project website: www.exploredesign.archiveshub.ac.uk
 
 **Research Team:**
-Exploring British Design AHRC Grant Ref: AH/M002438/1 comprised the University of Brighton, Jisc, and the Design Museum as partners, and the research team: Principal Investigator, Catherine Moriarty (University of Brighton); Co-Investigator, Jane Stevenson (Jisc); Data Developer, Pete Johnson (Jisc); Data Editor, Anna Kisby, (University of Brighton); Web designer, Tom Hart. 
+Exploring British Design AHRC Grant Ref: AH/M002438/1 comprised the University of Brighton, Jisc, and the Design Museum as partners, and the research team: Principal Investigator, Catherine Moriarty (University of Brighton); Co-Investigator, Jane Stevenson (Jisc); Data Developer, Pete Johnson (Jisc); Data Editor, Anna Kisby, (University of Brighton); Web designer, Tom Hart.
 
 <hr>
 <ol>

@@ -1,3 +1,7 @@
+---
+title: CLASSICAL MUSIC HYPER-PRODUCTION:  A PRACTICE-AS-RESEARCH PROJECT
+---
+
 # CLASSICAL MUSIC HYPER-PRODUCTION:  A PRACTICE-AS-RESEARCH PROJECT
 
 ![Image](Images/HyperMusicProduction_Image1.jpg)
@@ -16,4 +20,3 @@ Simon Zagorski-Thomas
 
 **Project Team:**
 Dr. Simon Zagorski-Thomas, Principal Investigator (London College of Music, University of West London); Dr. Amy Blier-Carruthers (Royal Academy of Music); Dr. Andrew Bourbon (London College of Music, University of West London); Dr. Emilie Capulet (London College of Music, University of West London)
-

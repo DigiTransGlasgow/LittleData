@@ -1,9 +1,14 @@
+---
+title: TANGLEBOTS
+---
+
+
 # TANGLEBOTS
 
 ![Image1](Images/Tanglebots_Image1.jpg)
 
 
-Tangling threads is straightforward for a human and their hands, but a real challenge for a robot. For the finale to the AHRC *Weaving Codes - Coding Weaves* (http://kairotic.org) project we tried a new approach to creative technology education inspired by this, teaching families about code, robotics and thread through the process of building “Tanglebots” (http://fo.am/tanglebots/). 
+Tangling threads is straightforward for a human and their hands, but a real challenge for a robot. For the finale to the AHRC *Weaving Codes - Coding Weaves* (http://kairotic.org) project we tried a new approach to creative technology education inspired by this, teaching families about code, robotics and thread through the process of building “Tanglebots” (http://fo.am/tanglebots/).
 
 The first Tanglebots workshop came near the end of the *Weaving Codes - Coding Weaves* project, conducted by Alex McLean, Ellen Harlizius-Klück, Dave Griffiths and Emma Cocker. The aim of our overall project was to re-link modern digital tools and the ancient and fundamentally *digital* art of weaving. We looked for the theoretical points where weaving and computer programming connect and developed codes and code machines to pursue these questions. Tanglebots engaged a group of families in pursuing these questions with us.
 
@@ -29,8 +34,7 @@ Alex Maclean
 **Links and Resources:**
 All our resources for the tanglebot workshop are uploaded to our github repository (https://github.com/Kairotic/tanglebots/) to help you run a tanglebots workshop if you wish!
 
-**Research team:** 
+**Research team:**
 Alex McLean (School of Music, University of Leeds); Ellen Harlizius-Klück (Centre for Textile Research, University of Copenhagen); Dave Griffiths (FoAM Kernow); Emma Cocker (School of Art & Design, Nottingham Trent University).
 
 As well as being supported by AHRC Digital Transformations, this project was part of British Science Week, supported by the British Science Association.
-

@@ -1,8 +1,12 @@
+---
+title: TRI-PACT: TRACKING INTELLECTUAL PROPERTY ACROSS THE CREATIVE TECHNOLOGIES
+---
+
 # TRI-PACT: TRACKING INTELLECTUAL PROPERTY ACROSS THE CREATIVE TECHNOLOGIES
 
 ![image](Images/TRIPACT_Image3.jpg)
 
-Set against the backdrop of a dynamic landscape of digitally transforming and increasingly convergent creative industries, this one-year project stimulated creative and strategic dialogue around the management, protection, sharing, access, use and reuse of Intellectual Property (IP) through the delivery of four participatory events. 
+Set against the backdrop of a dynamic landscape of digitally transforming and increasingly convergent creative industries, this one-year project stimulated creative and strategic dialogue around the management, protection, sharing, access, use and reuse of Intellectual Property (IP) through the delivery of four participatory events.
 
 These events brought together creative practitioners, media professionals, independent artists and freelancers from the technology-rich creative territories of Film, Broadcast and Games, along with members of the public and academics from a range of disciplines in order to collaboratively address the issues pertaining to intellectual property both within and across these domains.
 
@@ -22,9 +26,9 @@ The final event was the Live Cinema Intellectual Property (IP) & Licensing Maste
 
 The Master Class was a direct intervention implementing the findings of the TRI-PACT Live Cinema case study that also continued the collaboration with TRI-PACT’s Intellectual Property Adviser, Prof. Charlotte Waelde (Professor of IP, Coventry University) who chaired the session featuring Dr Barbara Lauriat (Dickson Poon School of Law, King’s College London), Matt Parritt (Harbottle & Lewis LLP) and Bryony Forde (Icon Film Distribution) as panelists.
 
-The creation and delivery of Live Cinema experiences pose specific IP challenges to producers, creatives, and distributors since they can include reinterpretations of the original text (such as soundtrack re-scoring) and the use of existing Intellectual Property (such as costumes, props and characters) in immersive cinema performances. The master class brought together IP experts and lawyers specializing in media rights with representatives from the Live Cinema industry involved in the commissioning and delivery of new and innovative live cinema experiences.  They debated whether changes in law, changes to the current policies, changes in the working practices and new education and training initiatives were needed to address IP issues faced by this emergent sector. Contractual issues, actors and performance rights, trademarking, character licensing and merchandising, celebrity endorsement were all discussed. 
+The creation and delivery of Live Cinema experiences pose specific IP challenges to producers, creatives, and distributors since they can include reinterpretations of the original text (such as soundtrack re-scoring) and the use of existing Intellectual Property (such as costumes, props and characters) in immersive cinema performances. The master class brought together IP experts and lawyers specializing in media rights with representatives from the Live Cinema industry involved in the commissioning and delivery of new and innovative live cinema experiences.  They debated whether changes in law, changes to the current policies, changes in the working practices and new education and training initiatives were needed to address IP issues faced by this emergent sector. Contractual issues, actors and performance rights, trademarking, character licensing and merchandising, celebrity endorsement were all discussed.
 
-All four events were developmental and transformational, inspiring new conversations and nurturing new collaborations. The sequence of events and the continuity of participants supported the elaboration and evolution of these discussions and created new knowledge and stimulated new ideas to take forwards and share in all their diverse professional domains. 
+All four events were developmental and transformational, inspiring new conversations and nurturing new collaborations. The sequence of events and the continuity of participants supported the elaboration and evolution of these discussions and created new knowledge and stimulated new ideas to take forwards and share in all their diverse professional domains.
 
 Sarah Atkinson
 

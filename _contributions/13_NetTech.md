@@ -1,3 +1,7 @@
+---
+title: NETWORKING TECHNOLOGY AND THE EXPERIENCE OF ENSEMBLE MUSIC-MAKING
+---
+
 # NETWORKING TECHNOLOGY AND THE EXPERIENCE OF ENSEMBLE MUSIC-MAKING
 
 ![Image](Images/NetTech_Image1.jpg)
@@ -10,7 +14,7 @@ My own expertise is in composing and conducting. Working with co-researchers wit
 ![Image](Images/NetTech_Image2.jpg)
 _CoMA Brighton._
 
-One of the particularly exciting things was taking the basic pilot system from the core research, and trying it out in different settings. We collaborated with the Brighton Science Festival and the local Contemporary Music for All (Brighton) ensemble to produce an event in central Brighton which members of the public with little or no music experience could join amateur musicians to perform a new piece of contemporary music. The system, adapted so that one iPad displayed the part’s notes in colours which matched a set of special handbells, enabled a young girl of about six to successfully synchronise with an ensemble of advanced players. We also took the system to a workshop at a rock school (BIMM Institute Brighton) where we used it to bring together classical musicians and a rock band. And we took it to Access to Music Brighton where we were delighted to find that it would engage and interest young people with non-classical backgrounds in the value and creative potential of musical notation. 
+One of the particularly exciting things was taking the basic pilot system from the core research, and trying it out in different settings. We collaborated with the Brighton Science Festival and the local Contemporary Music for All (Brighton) ensemble to produce an event in central Brighton which members of the public with little or no music experience could join amateur musicians to perform a new piece of contemporary music. The system, adapted so that one iPad displayed the part’s notes in colours which matched a set of special handbells, enabled a young girl of about six to successfully synchronise with an ensemble of advanced players. We also took the system to a workshop at a rock school (BIMM Institute Brighton) where we used it to bring together classical musicians and a rock band. And we took it to Access to Music Brighton where we were delighted to find that it would engage and interest young people with non-classical backgrounds in the value and creative potential of musical notation.
 
 ![Image](Images/NetTech_Image3.jpg)				
 _BIMM Institute Brighton._
@@ -18,7 +22,7 @@ _BIMM Institute Brighton._
 
 Currently we are working with the Sussex Innovation Centre and the Sussex Humanities Lab,  thanks to a follow-on grant from the AHRC, to develop an identity for an app release of the basic system which we expect to happen in Autumn 2017.
 
-This project was a chance to start a research team with great colleagues and to begin to develop truly collaborative and interdisciplinary work around musical notations in the humanities. I believe our team has very definite potential to develop further. Our feedback suggests consistently that users (ranging from primary school to professionals) think the basic system is very helpful; but that they would like a more seamless, musical and interactive experience which would be possible if we could find ways to get the tablets to ‘listen’ to the ensemble. 
+This project was a chance to start a research team with great colleagues and to begin to develop truly collaborative and interdisciplinary work around musical notations in the humanities. I believe our team has very definite potential to develop further. Our feedback suggests consistently that users (ranging from primary school to professionals) think the basic system is very helpful; but that they would like a more seamless, musical and interactive experience which would be possible if we could find ways to get the tablets to ‘listen’ to the ensemble.
 
 Overall I am grateful for the opportunity to work on this. It was particularly rewarding bringing cutting edge research in music composition and computing to a social setting and to see the children immediately benefitting from the research.
 
@@ -37,5 +41,3 @@ An initial report on the project is available via the proceedings of the _TENOR_
 Eldridge, A, Kiefer, C, Hughes, E (2016) _Designing Dynamic Networked Scores to Enhance the Experience of Ensemble Music Making._ International Conference on Technologies for Music Notation (TENOR)
 
 A final paper on the project’s findings has been completed and submitted for review to a peer reviewed journal and is currently under consideration.
-
-

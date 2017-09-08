@@ -1,3 +1,7 @@
+---
+title: BROKEN SCENES: RESURRECTING ANCIENT FRAGMENTED VOICES THROUGH ANIMATION
+---
+
 # BROKEN SCENES: RESURRECTING ANCIENT FRAGMENTED VOICES THROUGH ANIMATION
 
 ![image1](Images/BrokenScenes_Image1.jpeg)
@@ -14,10 +18,10 @@ In collaboration with Acme Filmworks, Oxford papyrology suddenly found itself on
 
 ![image4](Images/BrokenScenes_Image4.jpg)
 
-Creating this short film resulted in many unexpected opportunities. During the grant period we represented the project at the 2015 Annecy International Animated Film Festival, where we produced articles about our trip for the digital media site Animation World Network. And while working with Acme in Los Angeles, I was even invited to attend a live table read of an upcoming episode of *The Simpsons* with the entire cast. But, more importantly, we created something for everyone. *Trashy Humour*, as a product of the animation industry, will be submitted for awards at film festivals. As a product of classics and papyrology, it can be used in the classroom to teach ancient popular culture and the Mime. 
+Creating this short film resulted in many unexpected opportunities. During the grant period we represented the project at the 2015 Annecy International Animated Film Festival, where we produced articles about our trip for the digital media site Animation World Network. And while working with Acme in Los Angeles, I was even invited to attend a live table read of an upcoming episode of *The Simpsons* with the entire cast. But, more importantly, we created something for everyone. *Trashy Humour*, as a product of the animation industry, will be submitted for awards at film festivals. As a product of classics and papyrology, it can be used in the classroom to teach ancient popular culture and the Mime.
 
 J. H. Brusuelas
 
 
-**Links and Resources:** 
+**Links and Resources:**
 For more information and screenings go to: www.papyrology.ox.ac.uk/trashyhumour
