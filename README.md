@@ -7,4 +7,4 @@
 
 {% endfor %}
 
-![Image](/_contributions/Images/CoverImage2.jpeg)
+![Image](contributions/Images/CoverImage2.jpeg)
