@@ -3,9 +3,9 @@ collections:
         contributions:
                 output: true
 defaults:
-        scope:
+        - scope:
                 path: ""
                 type: contributions
 
-        values:
+          values:
                 layout: default
