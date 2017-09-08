@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 collections:
         contributions:
                 output: true
+                defaults:
+                        values:
+                                layout: default
