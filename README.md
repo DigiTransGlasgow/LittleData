@@ -1,4 +1,4 @@
-# Performning, Remixing & Re-Imagining Data
+# Performing, Remixing & Re-Imagining Data
 ## Projects from the AHRC Digital Transformations Theme
 
 {% for item in site.contributions %}
