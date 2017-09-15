@@ -34,4 +34,3 @@ Birmingham City University
 **Links and Resources:**
 Creed, C., 2016. ‘Assistive tools for disability arts: collaborative experiences in working with disabled artists and stakeholders’ in the _Journal of Assistive Technologies_, 10(2), pp.121-129.
 
-Creed, C. (2016) _Eye Gaze Interaction for Supporting Creative Work with Disabled Artists_. Poster paper presented at the British HCI Conference, Bournemouth.
