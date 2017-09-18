@@ -2,6 +2,8 @@
 title: "BROKEN SCENES: RESURRECTING ANCIENT FRAGMENTED VOICES THROUGH ANIMATION"
 ---
 
+The text of this article is released under Creative Commons BY-SA 4.0 license. However, the images are All Rights Reserved to Imaging Papyri Oxford and Acme Filmworks. 
+
 # BROKEN SCENES: RESURRECTING ANCIENT FRAGMENTED VOICES THROUGH ANIMATION
 
 ![image1](Images/BrokenScenes_Image1.jpeg)
