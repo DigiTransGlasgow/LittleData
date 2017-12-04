@@ -51,5 +51,4 @@ Exploring British Design AHRC Grant Ref: AH/M002438/1 comprised the University o
 </li>
 <li id="fn2">This topic was debated at the British Museum event _Museum of the Future: Changing Public Dialogues with Museum Collections in the Digital Age_, held on 16 October 2014. <a href="#fnref2">↩</a>
 </li>
-</li>
 </ol>
