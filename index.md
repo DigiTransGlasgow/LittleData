@@ -1,4 +1,6 @@
 
+<div id="index-page">
+
 ## Projects from the AHRC Digital Transformations Theme
 
 {% for item in site.contributions %}
@@ -6,3 +8,5 @@
 {% endfor %}
 
 ![Image](contributions/Images/CoverImage2.jpeg)
+
+</div>
