@@ -7,6 +7,6 @@
 <ul><li><a class="titles" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li></ul>
 {% endfor %}
 
-![Image](contributions/Images/CoverImage2.jpeg)
-
 </div>
+
+![Image](contributions/Images/CoverImage2.jpeg)
