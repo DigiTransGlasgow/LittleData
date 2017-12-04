@@ -8,5 +8,3 @@
 {% endfor %}
 
 </div>
-
-![Image](contributions/Images/CoverImage2.jpeg)
