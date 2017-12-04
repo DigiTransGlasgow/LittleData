@@ -1,4 +1,3 @@
-
 <div id="index-page">
 
 <h2>Projects from the AHRC Digital Transformations Theme</h2>
