@@ -13,7 +13,7 @@ Our practice-based research was led by the visual artist Richard Wright (http://
 
 Wright dug much deeper into the data infrastructure of the British Library, to the historical figure of Thomas Watts, the 19th century keeper of books initially tasked in 1838 with moving the entire library collection from the original Montagu House to the British Museum. 
 
-Image 1
+![Image1](Images/ICT_Image1.jpg)
 
 Watts faced a rather contemporary crisis: managing the discovery and access of a rapidly growing collection. By the 1850s, the explosion of books meant the collection could no longer be kept on permanent display. Watts developed the ‘elastic system’ of shelfmarking and storage, an uncannily modern response enabling flexible data searches. The once open shelves were replaced by a modern system of ‘data retrieval’: that is, one where the data (books) were stored separately from its place of processing (reading).
 
@@ -21,11 +21,11 @@ Wright’s site specific installation was The Elastic System (http://www.elastic
 
 There is another layer, however, to The Elastic System. When a user clicks on a book, it is removed from the digital ‘shelf’ revealing a second image underneath. What then becomes visible is the work that goes on in the library’s underground storage basements, the hidden part of the modern requesting system. When enough books are requested, British Library staff are revealed, labouring underground, and tipping the hat (a facsimile of the one favoured by Watts). 
 
-Image2
+![Image2](Images/ICT_Image2.jpg)
 
 One might speculate, at that point, on how different the image might be, were there to be an iteration of The Elastic System for, say, an Amazon warehouse. The highly proprietary data infrastructure, non-public nature, and robotic rule of those massive human-nonhuman sites of discovery-access and retrieval of consumer goods, however, mean that image is likely to remain largely hidden from public view. 
 
-Image 3
+![Image3](Images/ICT_Image3.jpg)
 
 We did, however, gain some sense of the wider national logistics of management of the cultural institution in our field visit to the British Library’s main storage facilities in the Yorkshire town of Boston Spa. Here we one can see the state-of-the-art nonhuman system of robotic data retrieval, moving at speed both horizontally and vertically through stacks 20 meters high.
 
