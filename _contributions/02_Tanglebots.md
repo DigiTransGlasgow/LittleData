@@ -9,7 +9,7 @@ layout: default
 ![Image1](Images/Tanglebots_Image1.jpg)
 
 
-Tangling threads is straightforward for a human and their hands, but a real challenge for a robot. For the finale to the AHRC *Weaving Codes - Coding Weaves* (http://kairotic.org) project we tried a new approach to creative technology education inspired by this, teaching families about code, robotics and thread through the process of building “Tanglebots” (http://fo.am/tanglebots/).
+Tangling threads is straightforward for a human and their hands, but a real challenge for a robot. For the finale to the AHRC *Weaving Codes - Coding Weaves* <http://kairotic.org> project we tried a new approach to creative technology education inspired by this, teaching families about code, robotics and thread through the process of building “Tanglebots” <http://fo.am/tanglebots/>.
 
 The first Tanglebots workshop came near the end of the *Weaving Codes - Coding Weaves* project, conducted by Alex McLean, Ellen Harlizius-Klück, Dave Griffiths and Emma Cocker. The aim of our overall project was to re-link modern digital tools and the ancient and fundamentally *digital* art of weaving. We looked for the theoretical points where weaving and computer programming connect and developed codes and code machines to pursue these questions. Tanglebots engaged a group of families in pursuing these questions with us.
 
@@ -17,9 +17,9 @@ The concept for the Tanglebots workshop was to combine abstract computer program
 
 ![Image2](Images/Tanglebots_Image2.jpg)
 
-The weaving focus allows us to ground the workshop in loom technology, and demonstrate the challenges of manipulating thread, with its history of technological development over millennia. FoAM Kernow (https://fo.am/), as research collaborators and host for the event, have a Harris loom resident in their studio, and for this first workshop, Ellen started us off with an introduction to the fundamentals of weaving.
+The weaving focus allows us to ground the workshop in loom technology, and demonstrate the challenges of manipulating thread, with its history of technological development over millennia. FoAM Kernow <https://fo.am/>, as research collaborators and host for the event, have a Harris loom resident in their studio, and for this first workshop, Ellen started us off with an introduction to the fundamentals of weaving.
 
-The workshop format we used was heavily influenced by Paul Granjon’s *wrekshops* (http://www.zprod.org/zwp/wrekshop/) – wherever possible we reused technology by pulling apart e-waste, making use of electronics, motors, gears and ideas from the surprising complexity of what’s inside the things people throw away. This turned out to have a powerful implicit message about recycling. Parents Dave talked to had tried taking things apart to learn about them, but the next step – making use of the parts discovered (as we were doing here) needs a little more help to do.
+The workshop format we used was heavily influenced by Paul Granjon’s *wrekshops* <http://www.zprod.org/zwp/wrekshop/> – wherever possible we reused technology by pulling apart e-waste, making use of electronics, motors, gears and ideas from the surprising complexity of what’s inside the things people throw away. This turned out to have a powerful implicit message about recycling. Parents Dave talked to had tried taking things apart to learn about them, but the next step – making use of the parts discovered (as we were doing here) needs a little more help to do.
 
 FoAM always recognises the importance of food in communal events, in providing both sustenance and inspiration for the goings on. In this case lunch was tangled by Amber Griffiths and Francesca Sargent, forming cardamom knots, spiralised courgette and spaghetti fritters.
 
@@ -33,7 +33,7 @@ Dave Griffiths and the Weaving Codes team.
 
 
 **Links and Resources:**
-All our resources for the tanglebot workshop are uploaded to our github repository (https://github.com/Kairotic/tanglebots/) to help you run a tanglebots workshop if you wish!
+All our resources for the tanglebot workshop are uploaded to our github repository <https://github.com/Kairotic/tanglebots/> to help you run a tanglebots workshop if you wish!
 
 **Research team:**
 Alex McLean (School of Music, University of Leeds); Ellen Harlizius-Klück (Centre for Textile Research, University of Copenhagen); Dave Griffiths (FoAM Kernow); Emma Cocker (School of Art & Design, Nottingham Trent University).
