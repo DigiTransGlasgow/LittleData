@@ -26,4 +26,4 @@ J. H. Brusuelas
 
 
 **Links and Resources:**
-For more information and screenings go to: <www.papyrology.ox.ac.uk/trashyhumour>
+For more information and screenings go to: < www.papyrology.ox.ac.uk/trashyhumour >
