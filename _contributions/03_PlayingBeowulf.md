@@ -37,4 +37,4 @@ Snow, Charles Percy (2001) [1959]. *The Two Cultures*. London: Cambridge Univers
 
 Tolkien, JRR (2015) (Edited by Tolkien, C.) *Beowulf: A Translation and Commentary*. New York: Mariner Books.
 
-A full account of the project, with video captures of the games, can be seen on the Playing Beowulf site at: https://darecollaborative.net/2015/03/11/playing-beowulf-gaming-the-library/
+A full account of the project, with video captures of the games, can be seen on the Playing Beowulf site at: <https://darecollaborative.net/2015/03/11/playing-beowulf-gaming-the-library/>
