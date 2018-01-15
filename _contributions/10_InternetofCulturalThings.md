@@ -1,5 +1,5 @@
 ---
-title: Internet of Cultural Things
+title: INTERNET OF CULTURAL THINGS
 ---
 
 # INTERNET OF CULTURAL THINGS
