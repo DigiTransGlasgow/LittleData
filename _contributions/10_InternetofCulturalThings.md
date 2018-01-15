@@ -1,5 +1,5 @@
 ---
-title: COTE
+title: Internet of Cultural Things
 ---
 
 # INTERNET OF CULTURAL THINGS
